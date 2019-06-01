@@ -5,11 +5,11 @@
 			"tacos": [
 				{
 					"name": "Veggie Taco",
-					"quantity": 4
+					"quantity": 2
 				},
 				{
 					"name": "Chicken Taco",
-					"quantity": 2
+					"quantity": 1
 				}
 			]
 		}
