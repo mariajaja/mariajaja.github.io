@@ -5,19 +5,11 @@
 			"tacos": [
 				{
 					"name": "Veggie Taco",
-					"price": 2.50
+					"quantity": 4
 				},
 				{
 					"name": "Chicken Taco",
-					"price": 3.00
-				},
-				{
-					"name": "Beef Taco",
-					"price": 3.00
-				},
-				{
-					"name": "Chorizo Taco",
-					"price": 3.50
+					"quantity": 2
 				}
 			]
 		}
